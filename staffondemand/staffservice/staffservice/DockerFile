@@ -1,4 +1,0 @@
-FROM openjdk:8-jre-alpine
-EXPOSE 8080
-ADD /target/staffservice-0.0.1-SNAPSHOT.jar staffservice.jar
-ENTRYPOINT ["java", "-jar", "staffservice.jar"]
