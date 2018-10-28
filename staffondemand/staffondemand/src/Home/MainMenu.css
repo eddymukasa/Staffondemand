@@ -1,0 +1,42 @@
+
+.Menu ul {
+    list-style: none;
+    background-color: #444;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+  .Menu li {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #888;
+  }
+   
+  .Menu a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    transition: .3s background-color;
+  }
+   
+  .Menu a:hover {
+    background-color: #005f5f;
+  }
+   
+  .Menu a.active {
+    background-color: #fff;
+    color: #444;
+    cursor: default;
+  }
+  
+  .Menu li {
+    display: inline-block;
+    width: 150px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+  

@@ -1,0 +1,7 @@
+.HomeImg {
+    padding: 0px;
+    height: 610px;
+    background-image:url("../Assets/Images/child.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+  }

@@ -1,0 +1,31 @@
+.Services{
+    padding: 20px 130px;
+  }
+
+  .card-deck{
+    padding: 20px 130px;
+  }
+
+  .rounded-circle{
+    align-self: center;
+    height: 180px;
+    width:180px;
+  }
+
+  .card{
+    border: none;
+  }
+
+  .howItworks{
+    background-color: aliceblue;
+    padding:0px 150px;
+  }
+  .tick{
+    align-self: left;
+    height: 70px;
+    width:70px;
+  }
+
+  .howItworks ul{
+    list-style: none;
+  }
