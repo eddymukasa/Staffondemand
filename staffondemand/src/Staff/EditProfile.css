@@ -1,0 +1,10 @@
+.col{
+
+    border: 1px;
+}
+
+.col.tile1{
+
+    border: 1px;
+    background-color: blue;
+}

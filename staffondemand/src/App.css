@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: crimson;
+  background-color:#f38181;
   height: 80px;
   padding: 20px;
   color: white;
@@ -31,6 +31,8 @@
 .Logo {
   font-size: 1.5em;
   float: left;
+  color: white;
+  font-family:cursive;
 }
 
 .LoginInfo {

@@ -9,7 +9,7 @@ class ServicesCard extends Component{
     render(){
       return(
         <div class="card-deck">
-    <div class="card">
+    <div class="card home">
       <img class="rounded-circle" src={childImage} alt="Card image cap"/>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -17,7 +17,7 @@ class ServicesCard extends Component{
       </div>
       
     </div>
-    <div class="card">
+    <div class="card home">
       <img class="rounded-circle" src={childImage} alt="Card image cap"/>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -25,7 +25,7 @@ class ServicesCard extends Component{
       </div>
       
     </div>
-    <div class="card">
+    <div class="card home">
       <img class="rounded-circle" src={childImage} alt="Card image cap"/>
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -46,10 +46,10 @@ class ServicesCard extends Component{
 
         <h2><b>HOW IT WORKS</b></h2>
         <ul>
-        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, consectetur adipiscing elit. </li>
-        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, consectetur adipiscing elit..   </li>
-        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, consectetur adipiscing elit.. </li>
-        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, consectetur adipiscing elit.. </li>
+        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit </li>
+        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit   </li>
+        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit </li>
+        <li><img class="tick" src={checkMark} alt="Card image cap"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit </li>
         
   </ul>
         </div>

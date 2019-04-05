@@ -1,5 +1,57 @@
-.Profilecard{
+.profile{
+   
+    /* border-radius: 8px; */
+   
+    padding: 10px;
+    /* box-shadow: 1px 1px 3px #F0F0F0; */
+}
+.profile-header-container{
+    margin: 0 auto;
+    text-align: center;
+}
 
+.profile-header {
+    margin-top: 43px;
+}
+
+.profile-header-img.rounded-circle{
+    align-self: center;
+    height: 120px;
+    width:120px;
+  }
+/**
+ * Ranking component
+ */
+.rank-label-container {
+    margin-top: -19px;
+    /* z-index: 1000; */
+    text-align: center;
+}
+
+.label.label-default.rank-label {
+    background-color: rgb(81, 210, 183);
+    padding: 5px 10px 5px 10px;
+    border-radius: 27px;
+}
+
+card.hovercard .info {
+    padding: 4px 8px 10px;
+}
+
+.title {
+    padding: 4px 0px;
+    margin-bottom: 4px;
+    font-size: 24px;
+    line-height: 1;
+    color: #428bca;
+    vertical-align: middle;
+}
+
+.ratings-icons {
+    color: #fec42d;
+    margin-bottom: 15px;
+}
+
+.bookBtn{
     padding: 20px;
-    margin: 20px;
 }

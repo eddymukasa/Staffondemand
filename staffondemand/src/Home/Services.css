@@ -4,6 +4,7 @@
 
   .card-deck{
     padding: 20px 130px;
+    background-color: #fce38a;
   }
 
   .rounded-circle{
@@ -12,13 +13,14 @@
     width:180px;
   }
 
-  .card{
+  .card.home{
     border: none;
+    background-color: #fce38a;
   }
 
   .howItworks{
-    background-color: aliceblue;
-    padding:0px 150px;
+    background-color: #eaffd0;
+    padding:10px 150px;
   }
   .tick{
     align-self: left;

@@ -1,7 +1,31 @@
 .HomeImg {
-    padding: 0px;
+    padding-top: 15%;
+    text-align: center;
     height: 610px;
     background-image:url("../Assets/Images/child.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
+
+
+
+  .h1{
+      font-size: 4em;
+      font-weight: 300;
+      font-size: 3.0rem;
+      color: white;
+
+      }
+#signupBtn{
+  margin-right: 1.5%;
+}
+
+#loginBtn{
+  margin-left: 1.5%;
+}
+
+.Home{
+  margin: auto;
+  max-width: 650px;
+}
+

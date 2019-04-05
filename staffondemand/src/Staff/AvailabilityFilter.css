@@ -1,0 +1,28 @@
+#accordion{
+
+    text-align: left;
+    background-color: #ECEDEE;
+    margin-top: 25%;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+    margin-bottom: 20px;
+}
+
+.dropdown-toggle{
+    margin-bottom: 20px;
+ 
+}
+
+#location{
+    text-align: center;
+ 
+}
+
+.locationButton{
+    text-align: center;
+ 
+}
